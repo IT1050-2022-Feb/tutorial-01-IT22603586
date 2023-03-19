@@ -12,6 +12,8 @@ This week we will revisit writing C programs.  In IT1050 the programming languag
 Write a C program to input marks of two subjects. Calculate and print the average of the two marks.
 
 Program File - [Tute01.c](Tute01.c)
+
+
  
 ## Exercise 2 - Selection
 
@@ -33,6 +35,21 @@ Distance -> 50
 Amount = 30 x 50 + (50-30) x 40 = 2300 
 ```
 Program File - [Tute02.c](Tute02.c)
+
+#include <stdio.h>
+int main(void)
+{
+float distance, amount;
+
+printf("Enter the distance in km : ");
+scanf("%f", &distance);
+
+if 
+
+
+
+
+}
 
 ## Exercise 3 - Repetition
 
